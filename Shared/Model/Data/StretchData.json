@@ -1,0 +1,289 @@
+[
+  {
+    "id":"689C6530-FEDE-4C6E-9790-993103D9C857",
+    "guide": {
+      "text": [
+        "While seated, cross your arms over your chest",
+        "Grab your shoulders",
+        "Rotate your upper body from the waist, turning gently from left to right as far as feels comfortable",
+        "You should feel a tension on both side of your lower back as it stretches out"
+      ],
+      "videoURL": ""
+    },
+    "source":"https://www.bupa.co.uk/newsroom/ourviews/desk-stretches",
+    "name":"Seated spinal rotations",
+    "bodyPart":"back",
+    "type": "timed"
+  },
+  {
+    "id":"F5617E68-3B08-4A40-9A98-5CE486E4A952",
+    "guide":{
+      "text": [
+        "Hold one arm across your body",
+        "Pull your elbow into your chest",
+        "You should feel your shoulder gently stretching"
+      ],
+      "videoURL": ""
+    },
+    "source":"https://www.bupa.co.uk/newsroom/ourviews/desk-stretches",
+    "name":"Posterior shoulder stretch",
+    "bodyPart":"shoulder",
+    "type": "timed"
+  },
+  {
+    "id":"9AB169DA-2808-40C9-8861-5F4BC77B3FA9",
+    "guide": {
+      "text": [
+        "Gently lift your shoulders",
+        "Let them slowly fall",
+        "You should feel tension being released as your shoulders drop"
+      ],
+      "videoURL": ""
+    },
+    "source":"https://www.bupa.co.uk/newsroom/ourviews/desk-stretches",
+    "name":"Posterior shrugs",
+    "bodyPart":"shoulder",
+    "type": "repBased"
+  },
+  {
+    "id":"35ECC9F5-66B9-4D21-888D-9097A74D64CF",
+    "guide":{
+      "text": [
+        "Sit straight with your feet together",
+        "Put the palms of your hands into the small of your back",
+        "Lean back over your hands, feeling your lower back stretch out"
+      ],
+      "videoURL": ""
+    },
+    "source":"https://www.bupa.co.uk/newsroom/ourviews/desk-stretches",
+    "name":"Sitting back extensions",
+    "bodyPart":"back",
+    "type": "timed"
+  },
+  {
+    "id":"79499573-9BE7-4794-B034-65E1C371F84B",
+    "guide": {
+      "text": [
+        "Keep your head upright",
+        "Gently turn your head from side to side",
+        "As you turn your head, try to move it past your shoulder",
+        "You should feel the muscles on the outside of your neck gradually stretching"
+      ],
+      "videoURL": ""
+    },
+    "source":"https://www.bupa.co.uk/newsroom/ourviews/desk-stretches",
+    "name":"Neck rotations",
+    "bodyPart":"neck",
+    "type": "repBased"
+  },
+  {
+    "id":"1F27DCA1-1B39-49A3-A84B-4F985193F51B",
+    "guide": {
+      "text": [
+        "Sit on one hand",
+        "Tilt your head away from the hand you're sitting on",
+        "Tilt your head slightly forward, towards your shoulder",
+        "You should feel the muscles in your neck and shoulder being stretched",
+        "Change sides, and repeat",
+      ],
+      "videoURL": ""
+    },
+    "type": "timed",
+    "source":"https://www.bupa.co.uk/newsroom/ourviews/desk-stretches",
+    "name":"Upper shoulder and neck stretch",
+    "bodyPart":"neck"
+  },
+  {
+    "id":"1BDAA5C7-411F-4AA0-8EDF-8F7E0E15CAB6",
+    "guide": {
+      "text": [
+        "Stand up and stretch your arms out behind you",
+        "Clasp your hands together and gently lift your arms",
+        "You should feel your shoulders and chest stretching"
+      ],
+      "videoURL": ""
+    },
+    "source":"https://www.bupa.co.uk/newsroom/ourviews/desk-stretches",
+    "name":"Shoulder extension (behind the body)",
+    "bodyPart":"shoulder",
+    "type": "repBased"
+  },
+  {
+    "id":"A9571610-67F4-497E-ADC6-5C1599400E8E",
+    "guide":{
+      "text": [
+        "Hold both arms above your head",
+        "Link your hands with your palms facing upwards",
+        "Reach as high as possible",
+        "You should feel your shoulders stretching"
+      ],
+      "videoURL": ""
+    },
+    "source":"https://www.bupa.co.uk/newsroom/ourviews/desk-stretches",
+    "name":"Shoulder extension (overhead)",
+    "bodyPart":"shoulder",
+    "type": "repBased"
+  },
+  {
+    "id":"F474EE19-8194-4A76-8777-C5B35A4F06E9",
+    "guide": {
+      "text": [
+        "Stand with your feet slightly apart and arms folded in front of your chest",
+        "Bend your knees a little and bend your hips to get your back flat and parallel to the ground while sticking your bottom out",
+        "Breathe out on the way down, in on the way up"
+      ],
+      "videoURL": ""
+    },
+    "source":"http://www.backcare.org.uk/wp-content/uploads/2015/02/Excercises-for-Back-Pain-Excercises.pdf",
+    "name":"Good morning",
+    "bodyPart":"back",
+    "type": "repBased"
+  },
+  {
+    "id":"A2AFC21B-1E20-4C4D-A58B-CD8A7EE4327C",
+    "guide": {
+      "text": [
+        "Stand with your feet apart and arms folded in front of your chest",
+        "Bend your knees until your thighs are halfway to being parallel with the ground (one third squats) Return to the upright position",
+        "Progress to having your thighs parallel to the ground (half squat) but never deeper",
+        "Breathe out on the way down, in on the way up"
+      ],
+      "videoURL": ""
+    },
+    "source":"http://www.backcare.org.uk/wp-content/uploads/2015/02/Excercises-for-Back-Pain-Excercises.pdf",
+    "name":"Half or one third squats",
+    "bodyPart":"leg",
+    "type": "repBased"
+  },
+  {
+    "id":"35324BB9-4446-45B1-9657-9157805E4309",
+    "guide": {
+      "text": [
+        "On the floor, on all fours, place your hands shoulder width apart and your knees slightly apart (arms and thighs should be vertical)",
+        "Stretch one arm forward in front while stretching the opposite leg out behind"
+      ],
+      "videoURL": ""
+    },
+    "source":"http://www.backcare.org.uk/wp-content/uploads/2015/02/Excercises-for-Back-Pain-Excercises.pdf",
+    "name":"Arm and leg raise",
+    "bodyPart":"fullBody",
+    "type": "repBased"
+  },
+  {
+    "id":"46950BC2-037E-46F9-8C73-5E7EC6FB41C5",
+    "guide": {
+      "text": [
+        "Arch the back, at the same time, look down at the floor",
+        "Then lower the stomach towards the floor, hollowing the back while looking up"
+      ],
+      "videoURL": ""
+    },
+    "source":"http://www.backcare.org.uk/wp-content/uploads/2015/02/Excercises-for-Back-Pain-Excercises.pdf",
+    "name":"Cat's pose",
+    "bodyPart":"fullBody",
+    "type": "repBased"
+  },
+  {
+    "id":"341789A1-D9E0-475F-9B5E-68EBCDB50F59",
+    "guide": {
+      "text": [
+        "While on the floor on all fours raise one hand off the floor and reach underneath your body as far as you can",
+        "On the return, swing the arm out to the side as far as you can, then return to the starting position. Follow the moving hand with the eyes",
+        "Repeat with the other arm"
+      ],
+      "videoURL": ""
+    },
+    "source":"http://www.backcare.org.uk/wp-content/uploads/2015/02/Excercises-for-Back-Pain-Excercises.pdf",
+    "name":"Arm swings",
+    "bodyPart":"back",
+    "type": "repBased"
+  },
+  {
+    "id":"CD6E853E-A171-43C0-82AA-C45646172016",
+    "guide": {
+      "text": [
+        "Position yourself on the floor on all fours",
+        "Swing your bent leg out to the side from your hip then return it the middle",
+        "Repeat with other leg"
+      ],
+      "videoURL": ""
+    },
+    "source":"http://www.backcare.org.uk/wp-content/uploads/2015/02/Excercises-for-Back-Pain-Excercises.pdf",
+    "name":"Bent leg side raises",
+    "bodyPart":"leg",
+    "type": "repBased"
+  },
+  {
+    "id":"3C864A62-17C6-477B-8712-152857C67BEF",
+    "guide": {
+      "text": [
+        "Lying face down on the floor, push up with your arms your hands placed below your shoulders",
+        "Keep your pelvis on the floor and only raise your back"
+      ],
+      "videoURL": ""
+    },
+    "source":"http://www.backcare.org.uk/wp-content/uploads/2015/02/Excercises-for-Back-Pain-Excercises.pdf",
+    "name":"Back arch",
+    "bodyPart":"back",
+    "type": "timed"
+  },
+  {
+    "id":"14388FFD-1925-4FA3-A4BB-CEAD496AD576",
+    "guide": {
+      "text": [
+        "While in the all fours position draw alternate knees to the opposite elbow",
+        "Return to the original position"
+      ],
+      "videoURL": ""
+    },
+    "source":"http://www.backcare.org.uk/wp-content/uploads/2015/02/Excercises-for-Back-Pain-Excercises.pdf",
+    "name":"Knee raises",
+    "bodyPart":"back",
+    "type": "repBased"
+  },
+  {
+    "id":"C98E6415-5842-4E74-98C2-62B57ABF7862",
+    "guide": {
+      "text": [
+        "Sitting cross legged, twist your shoulders around and place your right hand on the floor behind you",
+        "Place your left arm outside of your right knee and twist towards the right holding for five seconds, using your left arm as a lever against the knee",
+        "Repeat for the other side"
+      ],
+      "videoURL": ""
+    },
+    "source":"http://www.backcare.org.uk/wp-content/uploads/2015/02/Excercises-for-Back-Pain-Excercises.pdf",
+    "name":"Trunk Rotators",
+    "bodyPart":"back",
+    "type": "timed"
+  },
+  {
+    "id":"69B56EE0-7D36-4997-A2BE-9A46DEBE0DB9",
+    "guide": {
+      "text": [
+        "Standing with your feet hip width apart, arms at your sides, bring your hands up to just below your chin",
+        "At the same time bringing your elbows up as far as possible to the side of the head",
+        "Return your arms to your sides breathing in on the way up, out on the way down"
+      ],
+      "videoURL": ""
+    },
+    "source":"http://www.backcare.org.uk/wp-content/uploads/2015/02/Excercises-for-Back-Pain-Excercises.pdf",
+    "name":"Upright rowing",
+    "bodyPart":"shoulder",
+    "type": "repBased"
+  },
+  {
+    "id":"8501B884-DA89-477C-BF58-F27287F014F6",
+    "guide": {
+      "text": [
+        "Start with feet hip width apart, hands and arms reaching directly forward at shoulder level",
+        "Turn your head, arms and shoulders around to the left as far as you can go, bending the right arm across the chest, keeping your hips still",
+        "Repeat to the right"
+      ],
+      "videoURL": ""
+    },
+    "source":"http://www.backcare.org.uk/wp-content/uploads/2015/02/Excercises-for-Back-Pain-Excercises.pdf",
+    "name":"Head, arms and trunk rotation",
+    "bodyPart":"fullBody",
+    "type": "timed"
+  }
+]
