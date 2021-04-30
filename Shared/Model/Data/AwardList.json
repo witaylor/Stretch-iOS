@@ -1,0 +1,72 @@
+[
+  {
+    "id": "615908d7-0c50-4b61-b629-5be699d2e1d5",
+    "title": "Your first day",
+    "descriptions": {
+      "complete": "You've completed your first daily stretch routine.",
+      "incomplete": "Complete your first daily stretch routine."
+    },
+    "achieved": false,
+    "iconName": "TrophyIcon"
+  },
+  {
+    "id": "f56c1c7f-267b-4330-ae54-263e495777b2",
+    "title": "Ten Days",
+    "descriptions": {
+      "complete": "You've completed ten daily stretch routine.",
+      "incomplete": "Complete ten daily stretch routines."
+    },
+    "achieved": false,
+    "iconName": "TrophyIcon"
+  },
+  {
+    "id": "7ac786c0-9a69-4a76-a5b3-0254a08c8e98",
+    "title": "Three Day Streak",
+    "descriptions": {
+      "complete": "You've completed three daily stretch routines in a row.",
+      "incomplete": "Complete three daily stretch routines in a row."
+    },
+    "achieved": false,
+    "iconName": "TrophyIcon"
+  },
+  {
+    "id": "3c5f7209-0383-4f4d-a97c-968e767d911f",
+    "title": "Five Day Streak",
+    "descriptions": {
+      "complete": "You've completed five daily stretch routines in a row.",
+      "incomplete": "Complete five daily stretch routines in a row."
+    },
+    "achieved": false,
+    "iconName": "TrophyIcon"
+  },
+  {
+    "id": "cbb08c3e-bca2-4160-9f49-461d6b638700",
+    "title": "A Wonderful Week",
+    "descriptions": {
+      "complete": "You've your daily stretch routines every day for a week.",
+      "incomplete": "Complete your daily stretch routines every day for a week (7 days total)."
+    },
+    "achieved": false,
+    "iconName": "TrophyIcon"
+  },
+  {
+    "id": "f606d6a4-c845-45f6-afca-4c3626fc119e",
+    "title": "Two Weeks!",
+    "descriptions": {
+      "complete": "You've your daily stretch routines for two weeks in a row.",
+      "incomplete": "Complete your daily stretch routines every day for two weeks in a row (14 days total)."
+    },
+    "achieved": false,
+    "iconName": "TrophyIcon"
+  },
+  {
+    "id": "f606d6a4-c845-45f6-afca-4c3626fc119e",
+    "title": "One Month",
+    "descriptions": {
+      "complete": "You've your daily stretch routines every day for a month.",
+      "incomplete": "Complete your daily stretch routines every day for a month."
+    },
+    "achieved": false,
+    "iconName": "TrophyIcon"
+  }
+]
